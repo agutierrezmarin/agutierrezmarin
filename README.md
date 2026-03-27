@@ -48,8 +48,4 @@ UBICACIÓN : Bolivia
 | [proyecto_flask_2025](https://github.com/agutierrezmarin/proyecto_flask_2025) | Flask desde básico a complejo | Python |
 | [puntoya](https://github.com/agutierrezmarin/puntoya) | Sistema de entregas por puntos | Python |
 
----
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=4000&pause=500&color=FF6600&center=true&vCenter=true&width=500&lines=NERV+%2F%2F+GOD%27S+IN+HIS+HEAVEN+—+ALL%27S+RIGHT+WITH+THE+WORLD" />
-</div>
