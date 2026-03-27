@@ -1,11 +1,5 @@
 <div align="center">
-
-<!-- Banner SVG estilo NERV -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF41&background=0A0A0A00&center=true&vCenter=true&width=600&lines=NERV+SYSTEMS+ONLINE;ALEJANDRO+GUTIERREZ+%2F+IT+DIVISION;UNIT+STATUS%3A+ACTIVE;Python+%7C+GIS+%7C+PostgreSQL+%7C+Networks" alt="Typing SVG" />
-
-<!-- Separador estilo consola -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:1a1a1a&height=3&section=header&reversal=false&strokeWidth=2&stroke=00FF41" />
-
+  <img src="./nerv-banner.svg" alt="NERV Banner" width="100%"/>
 </div>
 
 ---
