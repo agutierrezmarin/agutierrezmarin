@@ -1,8 +1,7 @@
 <div align="center">
   <img src="./nerv-banner.svg" alt="NERV Banner" width="100%"/>
 </div>
-
-Me gusta Mucho:
+<P>Me gusta Mucho:</P>
 ![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00FF41)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=FF6600)
 ![PostGIS](https://img.shields.io/badge/PostGIS-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=FFD700)
