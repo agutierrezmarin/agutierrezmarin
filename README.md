@@ -5,7 +5,6 @@
 ## `> IDENTIFICACIÓN`
 ```
 ROL       : Desarrollador Python / GIS / Sysadmin
-ESTADO    : ACTIVO
 UBICACIÓN : Bolivia - La Paz
 ```
 
